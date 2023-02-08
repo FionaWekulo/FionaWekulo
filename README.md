@@ -17,6 +17,3 @@ Skills: **1. PYTHON** **2. PHP** **3. ANGULAR** **4. HTML &CSS**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FionaWekulo)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=FionaWekulo)  
-
-![Profile views](https://gpvc.arturio.dev/FionaWekulo)  
