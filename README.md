@@ -3,13 +3,13 @@
 
 
 I love coding.
-I get a thrill when I learn new languages and implement them to solve human problems.
-I develop web and mobile applications.
+I am always thrilled to learn new languages and implement them to solve human problems.
+I develop websites, web applications and I am currently learning how to develop mobile applications.
 
 Skills: **1. PYTHON** **2. PHP** **3. ANGULAR** **4. HTML &CSS** 
-        **5. DATABASE DEVELOPMENT** **6. WEB DEVELOPMENT** **7. MOBILE DEVELOPMENT**
+        **5. DATABASE DEVELOPMENT** **6. WEBSITE AND WEB APP DEVELOPMENT** 
 
-- 🌱 I’m currently learning flutter 
+- 🌱 I’m currently learning `FLUTTER` and `JAVASCRIPT`
 - 📫 How to reach me: linked in - https://www.linkedin.com/in/fiona-wekulo-a34985214/        
 
 
