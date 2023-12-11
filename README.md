@@ -6,10 +6,10 @@ I love coding.
 I am always thrilled to learn new languages and implement them to solve human problems.
 I develop websites, web applications and I am currently learning how to develop mobile applications.
 
-Skills: **1. PYTHON** **2. PHP** **3. ANGULAR** **4. HTML & CSS** **5. BOOTSTRAP** 
+Skills: **1. PYTHON** **2. PHP** **3. HTML & CSS** **4. BOOTSTRAP** **5. JAVASCRIPT**
         **6. DATABASE DEVELOPMENT** **7. WEBSITE AND WEB APP DEVELOPMENT** 
 
-- 🌱 I’m currently learning `FLUTTER` and `JAVASCRIPT`
+- 🌱 I’m currently learning `REACTJS`, `NEXTJS`, `NODEJS` and `ANGULARJS`
 - 📫 How to reach me: linked in - https://www.linkedin.com/in/fiona-wekulo-a34985214/        
 
 
